@@ -2,5 +2,5 @@
 
 ## Tasks
 
-- [Coreferecne resolution](tasks/coreference_resolution.md)
-- [Dependency parcing & Syntax](tasks/dependency_parsing_syntax.md)
+- [Coreferecne resolution](pages/coreference_resolution.html)
+- [Dependency parcing & Syntax](pages/dependency_parsing_syntax.html)
