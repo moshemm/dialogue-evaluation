@@ -1,5 +1,4 @@
 # This is a test repo for GitHub Pages
-# This is a test repo for GitHub Pages
 
 [Dialogue Evaluation test pages](https://moshemm.github.io/test-pages/)
 
