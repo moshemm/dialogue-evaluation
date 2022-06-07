@@ -18,11 +18,11 @@ GramEval 2020 — дорожка по оценке методов и техни�
 ### Лидерборд
 
 
-| Model                                                                        |  Avg Acc  | Paper                                                                                                                     | Code                                                                           |
-| ---------------------------------------------------------------------------- | :---: | :---: | :---: | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| qbic: RuBERT + LSTM (+various other models) (Anastasyev, 2020)                    | 91.60 | [Exploring Pretrained Models For Joint Morpho-Syntactic Parsing of Russian](https://www.dialog-21.ru/media/5069/anastasyevdg-147.pdf) | [Github](https://github.com/DanAnastasyev/GramEval2020)                          |
+| Model |  Avg Acc  | Paper  | Code  |
+| ------| :-------: | ------ | ----- |
+| qbic: RuBERT + LSTM (+various other models) (Anastasyev, 2020) | 91.60 | [Exploring Pretrained Models For Joint Morpho-Syntactic Parsing of Russian](https://www.dialog-21.ru/media/5069/anastasyevdg-147.pdf) | [Github](https://github.com/DanAnastasyev/GramEval2020) |
 | ADVance: RuBERT + fine-tuning + post-processing (Sorokin et al., 2020) | 90.76 | [Tagging and Parsing of Multidomain Collections](https://www.dialog-21.ru/media/5118/sorokinaaplusetal-162.pdf) | [Github](https://github.com/AlexeySorokin/GramEval2020)|
-| lima: Fasttext + LSTM + FF (Bocharov et al, 2020)                            | 87.87  | [The Russian Language Pipeline in the Lima Multilingual Analyzer](https://www.dialog-21.ru/media/5075/bocharovvvplusdechalendarg-158.pdf)                        | [Github](https://github.com/aymara/lima/tree/grameval-2020)                     |
+| lima: Fasttext + LSTM + FF (Bocharov et al, 2020) | 87.87  | [The Russian Language Pipeline in the Lima Multilingual Analyzer](https://www.dialog-21.ru/media/5075/bocharovvvplusdechalendarg-158.pdf) | [Github](https://github.com/aymara/lima/tree/grameval-2020) |
 
 
 ## MorphoRuEval-2017
