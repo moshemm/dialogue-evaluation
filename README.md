@@ -1,6 +1,18 @@
 # This is a test repo for GitHub Pages
+# This is a test repo for GitHub Pages
+
+[Dialogue Evaluation test pages](https://moshemm.github.io/test-pages/)
 
 ## Tasks
 
-- [Coreferecne resolution](tasks/coreference_resolution.md)
-- [Dependency parcing & Syntax](tasks/dependency_parsing_syntax.md)
+- [Artificial Text Detection](tasks/ATD.md)
+- Computational semantics
+- Data mining
+- Detoxification
+- Ellipsis
+- Low-resource languages
+- [Morpho-syntactic parsing](tasks/Morpho-syntactic parsing.md)
+- NER & RE
+- Plagiarism detection
+- Sentiment Analysis
+- Simplification

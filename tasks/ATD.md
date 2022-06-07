@@ -1,8 +1,8 @@
-# Coreference resolution
+# Artificial Text Detection
 
-Coreference resolution is the task of clustering mentions in text that refer to the same underlying real world entities.
+Современные модели генерации текстов показывают впечатляющие результаты: они могут сочинить стихотворение, изменить стиль текстов и даже написать осмысленное эссе на свободную тематику. Однако такие модели могут быть использованы в злонамеренных целях, например, для генерации фейковых новостей, отзывов на продукты и политического контента. Так, возникает новая задача: **научиться отличать тексты, написанные человеком, от текстов, сгенерированных нейросетевыми языковыми моделями**.
 
-## RuEval-2019
+## RuATD-2022
 
 Experiments are conducted on the data of the [CoNLL-2012 shared task](http://www.aclweb.org/anthology/W12-4501), which
 uses OntoNotes coreference annotations. Papers
