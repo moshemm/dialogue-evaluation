@@ -1,7 +1,8 @@
-# Artificial Text Detection
+# Coreference resolution
 
+Coreference resolution is the task of clustering mentions in text that refer to the same underlying real world entities.
 
-## RuATD-2022
+## RuEval-2019
 
 Experiments are conducted on the data of the [CoNLL-2012 shared task](http://www.aclweb.org/anthology/W12-4501), which
 uses OntoNotes coreference annotations. Papers
