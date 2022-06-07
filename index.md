@@ -4,13 +4,13 @@ Dialogue Evaluation - это специальное направление «Д�
 
 ## Tasks
 
-- [Artificial Text Detection](tasks/ATD.md)
+- [Artificial Text Detection](pages/ATD.md)
 - Computational semantics
 - Data mining
 - Detoxification
 - Ellipsis
 - Low-resource languages
-- [Morpho-syntactic parsing](tasks/Morpho-syntactic_parsing.md)
+- [Morpho-syntactic parsing](pages/Morpho-syntactic_parsing.md)
 - NER & RE
 - Plagiarism detection
 - Sentiment Analysis
